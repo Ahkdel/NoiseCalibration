@@ -1,4 +1,4 @@
-#include "AmbNoiseCal.h"
+#include "NoiseCalibration.h"
 
 int main(int argc, char *argv[])
 {
